@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+.dmg-staging/
+.DS_Store
+.claude/
+dist/.DS_Store
